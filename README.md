@@ -7,7 +7,7 @@
 
 ***
 ### SunoikisisDC 2016 Summer Semester Course
-* [SunoikisisDC 2016 Summer Semester Course Wiki (syllabus, class outlines, slides, and common sessions videos)](https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki)
+* [SunoikisisDC 2016 Summer Semester Course Wiki (syllabus, class outlines, slides, and common sessions broadcasts)](https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki)
 
 ***
 ### Other activities
