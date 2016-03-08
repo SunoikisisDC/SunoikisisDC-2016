@@ -6,4 +6,8 @@
 
 ***
 
-* [SunoikisisDC 2016 Summer Semester Course Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki)
+* [SunoikisisDC 2016 Summer Semester Course Wiki (syllabus, class outlines, slides, and common sessions videos)](https://github.com/SunoikisisDC/SunoikisisDC-2016/wiki)
+
+***
+[Presentation of SunoikisisDC at the 2nd EADH day at DHd 2016](http://www.dhd2016.de/EADH%20day%20programme)
+
