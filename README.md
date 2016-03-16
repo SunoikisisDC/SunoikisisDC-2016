@@ -12,4 +12,5 @@
 ***
 ### Other activities
 * [Presentation of SunoikisisDC at the 2nd EADH day at DHd 2016](http://www.dhd2016.de/EADH%20day%20programme)
+* [Presentation of SunoikisisDC at DiXiT2](http://dixit.uni-koeln.de/convention-2-abstracts/#berti)
 
