@@ -13,5 +13,5 @@
 ### Other activities
 * [Presentation of SunoikisisDC at the 2nd EADH day at DHd 2016](http://www.dhd2016.de/EADH%20day%20programme)
 * [Presentation of SunoikisisDC at DiXiT2](http://dixit.uni-koeln.de/convention-2-abstracts/#berti)
-* [Presentation of SunoikisisDC at the Classical Association Annual Conference 2016](http://www.ed.ac.uk/history-classics-archaeology/news-events/events/classical-association-2016)
+* [Presentation of SunoikisisDC at the Digital Classics Teaching Panel at the Classical Association Annual Conference 2016](http://www.ed.ac.uk/history-classics-archaeology/news-events/events/classical-association-2016): [open document of the Digital Classics teaching round table](https://docs.google.com/document/d/1QJFHr5K83RBxiFejtIFOvoM3C2PbFbOiQt3YWsK4mmU/edit?ts=570771c6)
 
