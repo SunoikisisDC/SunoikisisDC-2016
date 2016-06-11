@@ -11,8 +11,7 @@
 
 ***
 ### Other activities and reports
-* Presentation of SunoikisisDC at the [2nd EADH day at DHd 2016 - March 8, 2016](http://www.dhd2016.de/EADH%20day%20programme)
-* Presentation of SunoikisisDC at [DiXiT2](http://dixit.uni-koeln.de/convention-2-abstracts/#berti)
+* Presentation of SunoikisisDC at the [2nd EADH day at DHd 2016: March 8, 2016](http://www.dhd2016.de/EADH%20day%20programme)
+* Presentation of SunoikisisDC at [DiXiT2: March 16, 2016](http://dixit.uni-koeln.de/convention-2-abstracts/#berti)
 * Presentation of SunoikisisDC at the Digital Classics Teaching Panel at the Classical Association Annual Conference 2016 - Edinburgh, April 8, 2016: [open Google document of the Digital Classics teaching round table](https://docs.google.com/document/d/1QJFHr5K83RBxiFejtIFOvoM3C2PbFbOiQt3YWsK4mmU/edit?ts=570771c6)
-* Monica Berti trains CHS interns at the [CHS Summer Internship in Publications 2016 - June 16 - July 1, 2016](http://kleos.chs.harvard.edu/?p=6289)
-
+* Monica Berti trains CHS interns at the [CHS Summer Internship in Publications 2016: June 16 - July 1, 2016](http://kleos.chs.harvard.edu/?p=6289)
