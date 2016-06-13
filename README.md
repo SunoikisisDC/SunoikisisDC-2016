@@ -18,4 +18,4 @@
 * Monica Berti trains CHS interns at the [CHS Summer Internship in Publications 2016: June 16 - July 1, 2016](http://kleos.chs.harvard.edu/?p=6289)
 
 ### Teaching Reports
-* Eleni Bozia (University of Florida): [DIG6837 - Digital Tools for the Arts and Humanities, Report](https://github.com/SunoikisisDC/SunoikisisDC-2016/blob/master/Teaching_Reports/Bozia_DigitalTools_%20fortheArtsandHumanities.pdf)
+* Eleni Bozia (University of Florida): [DIG6837 - Digital Tools for the Arts and Humanities, Report](https://github.com/SunoikisisDC/SunoikisisDC-2016/blob/master/Teaching_Reports/Bozia_DigitalTools_%20fortheArtsandHumanities.pdf) and [Students' Projects](https://www.dropbox.com/sh/xrbmsogffx0y1l7/AACsrENyCfyIXZg7hycEZiVxa?dl=0)
