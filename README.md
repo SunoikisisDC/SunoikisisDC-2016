@@ -17,5 +17,6 @@
 * Monica Berti participates in the [Sunoikisis Course Planning and Faculty Development Seminar 2016 at the Center for Hellenic Studies](http://wp.chs.harvard.edu/sunoikisis/faculty/faculty-seminars/): [(live stream of the seminar)](http://media.video.harvard.edu/core/live/harvard-chs-live.html)
 * Monica Berti trains CHS interns at the [CHS Summer Internship in Publications 2016: June 16 - July 1, 2016](http://kleos.chs.harvard.edu/?p=6289)
 
+***
 ### Teaching Reports
 * Eleni Bozia (University of Florida): [DIG6837 - Digital Tools for the Arts and Humanities, Report](https://github.com/SunoikisisDC/SunoikisisDC-2016/blob/master/Teaching_Reports/Bozia_DigitalTools_%20fortheArtsandHumanities.pdf) and [Students' Projects](https://www.dropbox.com/sh/xrbmsogffx0y1l7/AACsrENyCfyIXZg7hycEZiVxa?dl=0)
