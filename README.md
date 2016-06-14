@@ -23,4 +23,4 @@
 
 ***
 ### Field Activities
-* [Visible Words in Cambodia: Presentation of the Digital Epigraphy Field workshop that took place in Cambodia in May 2016](https://youtu.be/9cXejmsybRQ). This video has been recorded for SunoikisisDC.
+* [Visible Words in Cambodia: Presentation of the Digital Epigraphy Field workshop that took place in Cambodia in May 2016 (Michèle Brunet and Marie-Claire Beaulieu)](https://youtu.be/9cXejmsybRQ). This video has been recorded for SunoikisisDC.
