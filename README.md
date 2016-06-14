@@ -22,6 +22,5 @@
 * Eleni Bozia (University of Florida): [DIG6837 - Digital Tools for the Arts and Humanities, Report](https://github.com/SunoikisisDC/SunoikisisDC-2016/blob/master/Teaching_Reports/Bozia_DigitalTools_%20fortheArtsandHumanities.pdf) and [Students' Projects](https://www.dropbox.com/sh/xrbmsogffx0y1l7/AACsrENyCfyIXZg7hycEZiVxa?dl=0)
 
 ***
-Field Activities
-[Visible Words in Cambodia: Presentation of the Digital Epigraphy Field workshop that took place in Cambodia in May 2016](https://youtu.be/9cXejmsybRQ). This video is recorded for the Sunoikisis International Consortium of Digital Classics collaborative courses.
-
+### Field Activities
+* [Visible Words in Cambodia: Presentation of the Digital Epigraphy Field workshop that took place in Cambodia in May 2016](https://youtu.be/9cXejmsybRQ). This video is recorded for the Sunoikisis International Consortium of Digital Classics collaborative courses.
