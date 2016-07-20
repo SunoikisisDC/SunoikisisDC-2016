@@ -15,6 +15,7 @@
 * Presentation of SunoikisisDC at [DiXiT2: March 16, 2016](http://dixit.uni-koeln.de/convention-2-abstracts/#berti)
 * Presentation of SunoikisisDC at the Digital Classics Teaching Panel at the Classical Association Annual Conference 2016 - Edinburgh, April 8, 2016: [open Google document of the Digital Classics teaching round table](https://docs.google.com/document/d/1QJFHr5K83RBxiFejtIFOvoM3C2PbFbOiQt3YWsK4mmU/edit?ts=570771c6)
 * Monica Berti participates in the [Sunoikisis Course Planning and Faculty Development Seminar 2016 at the Center for Hellenic Studies](http://wp.chs.harvard.edu/sunoikisis/faculty/faculty-seminars/): [(live stream of the seminar)](http://media.video.harvard.edu/core/live/harvard-chs-live.html)
+* Monica Berti presents SunoikisisDC 2016 at the [CHS Sunoikisis Common Day 2016](http://wp.chs.harvard.edu/sunoikisis/2016/06/24/seminar-common-day-2016/)
 * Monica Berti trains CHS interns at the [CHS Summer Internship in Publications 2016: June 16 - July 1, 2016](http://kleos.chs.harvard.edu/?p=6289)
 
 ***
